@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krstichs
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C# + .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me / email: krsticstefansusek@gmail.com
 
