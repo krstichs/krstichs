@@ -10,12 +10,12 @@
 
 I am a **Software Engineering and Information Technologies (SIIT)** student at the **Faculty of Technical Sciences, University of Novi Sad**. I focus on building high-performance, responsive web applications with clean architecture and modern user interfaces.
 
-* ** Current Focus:** Full-stack web application development, data structures & algorithm optimization, and responsive UI/UX engineering.
-* ** Beyond Coding:** When I'm not writing clean code or debugging, you can find me logging kilometers on the road—maintaining a steady volume as a long-distance runner—or hitting structured strength splits. 
+* **Current Focus:** Full-stack web application development, data structures & algorithm optimization, and responsive UI/UX engineering.
+* **Beyond Coding:** When I'm not writing clean code or debugging, you can find me logging kilometers on the road—maintaining a steady volume as a long-distance runner—or hitting structured strength splits. 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
