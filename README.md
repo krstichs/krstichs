@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stefan Krstić (@krstichs)
+# Stefan Krstić (@krstichs)
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF7200&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Building+Enduro+Apps" alt="Typing SVG" /></a>
@@ -6,12 +6,12 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a **Software Engineering and Information Technologies (SIIT)** student at the **Faculty of Technical Sciences, University of Novi Sad**. I focus on building high-performance, responsive web applications with clean architecture and modern user interfaces.
 
-* **💻 Current Focus:** Full-stack web application development, data structures & algorithm optimization, and responsive UI/UX engineering.
-* **🏃‍♂️ Beyond Coding:** When I'm not writing clean code or debugging, you can find me logging kilometers on the road—maintaining a steady volume as a long-distance runner—or hitting structured strength splits. 
+* ** Current Focus:** Full-stack web application development, data structures & algorithm optimization, and responsive UI/UX engineering.
+* ** Beyond Coding:** When I'm not writing clean code or debugging, you can find me logging kilometers on the road—maintaining a steady volume as a long-distance runner—or hitting structured strength splits. 
 
 ---
 
@@ -33,23 +33,11 @@ I am a **Software Engineering and Information Technologies (SIIT)** student at t
 
 ---
 
-### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=krstichs&show_icons=true&theme=dark&hide_border=true&title_color=ff7200&icon_color=ff7200" width="100%" alt="Stefan's GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krstichs&layout=compact&theme=dark&hide_border=true&title_color=ff7200" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+###  Connect With Me
 
-### 📫 Connect With Me
-
-* 📧 **Email:** [krsticstefan841@gmail.com](mailto:krsticstefan841@gmail.com)
-* 💼 **LinkedIn:** www.linkedin.com/in/krstics
+*  **Email:** [krsticstefan841@gmail.com](mailto:krsticstefan841@gmail.com)
+*  **LinkedIn:** www.linkedin.com/in/krstics
 
 ---
-<p align="center"><i>"Consistency beats talent when talent doesn't work hard." ⚡</i></p>
+<p align="center"><i>"Consistency beats talent when talent doesn't work hard." </i></p>
